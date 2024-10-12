@@ -4,7 +4,7 @@ Full name: Alyssa Perry | Chapman Email: alperry@chapman.edu
 
 OVERVIEW
 
-Data Stuctures C++ projects completed Fall 2024 at Chapman University
+Data Structures C++ projects completed Fall 2024 at Chapman University
 
 PROJECTS
 
