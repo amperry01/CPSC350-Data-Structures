@@ -1,0 +1,9 @@
+# Ignore all .zip files
+*.zip
+
+# Ignore lecture folders & vscode settings files
+Lecture15_BST_Code/
+.vscode/
+
+# Ignore macOS hidden files
+.DS_Store
