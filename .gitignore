@@ -1,9 +1,18 @@
 # Ignore all .zip files
 *.zip
 
-# Ignore lecture folders & vscode settings files
+# Ignore lecture folders & VSCode settings
 Lecture15_BST_Code/
 .vscode/
 
 # Ignore macOS hidden files
 .DS_Store
+
+# Ignore compiled binaries and object files
+*.exe
+*.out
+*.o
+
+# Ignore common build folders
+build/
+dist/
