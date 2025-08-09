@@ -40,6 +40,7 @@ Mario Lives: 3 | Coins in wallet: 1 | Next move: DOWN
 Current level: 0 | Mario position: 2,2 | Mario power level: 0
 Mario fought a Koopa and lost.
 Mario Lives: 2 | Coins in wallet: 1 | Next move: STAY PUT
+```
 
 ---
 
