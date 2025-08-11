@@ -3,9 +3,7 @@
 C++ projects completed in Fall 2024 at Chapman University for **CPSC 350: Data Structures**.  
 Each project demonstrates core computer science concepts, including object-oriented programming, custom data structures, and algorithm implementation.
 
----
-
-## 📂 Project List
+## Project List
 
 - **robber-language-translator**  
   Translates American English text from a plain text file into Robber Language (Rövarspråket) using character-by-character encoding logic.
@@ -24,5 +22,3 @@ Each project demonstrates core computer science concepts, including object-orien
 
 - **kruskal-minimum-spanning-tree**  
   Computes the Minimum Spanning Tree of a weighted graph using Kruskal’s algorithm with a custom priority queue.
-
----
