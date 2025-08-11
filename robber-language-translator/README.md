@@ -8,16 +8,12 @@ In this encoding:
 
 The program reads an input file, outputs the original text, and then produces an HTML file showing the translated text.
 
----
-
-## 🛠 Features
+## Features
 - **File I/O:** Reads from plain text, writes to HTML
 - **String manipulation:** Character-by-character translation logic
 - **Command-line interface:** Accepts input and output file paths as arguments
 
----
-
-## 📂 File Structure
+## File Structure
 - `main.cpp` — Program entry point
 - `Model.cpp` / `Model.h` — Handles translation of single characters
 - `Translator.cpp` / `Translator.h` — Handles translation of words/sentences
@@ -25,9 +21,7 @@ The program reads an input file, outputs the original text, and then produces an
 - `input.txt` — Example input file
 - `output.html` — Example translated HTML output
 
----
-
-## 📦 How to Run
+## How to Run
 ```bash
 # Compile
 g++ *.cpp -o translator
